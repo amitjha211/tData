@@ -1,0 +1,12 @@
+{
+    "cols" : [
+        { "title" : "Symbol" , "width" : 15, "field" : "symbol" }
+        ,{ "title" : "LTP" , "width" : 8, "field" : "ltp" , "align" : 1 }
+        ,{ "title" : "High" , "width" : 8, "field" : "high" ,"align" : 1 ,"fcolor":"green"}
+        ,{ "title" : "Low" , "width" : 8, "field" : "low" ,"align" : 1 ,"fcolor":"red" }
+        ,{ "title" : "diff" , "width" : 8, "field" : "diff" ,"align" : 1,"fcolor":""  }
+        ,{ "title" : "dPer" , "width" : 5, "field" : "diff_per"  ,"align" : 1 }
+        ,{ "title" : "52w-Range" , "width" : 15, "field" : "range52w"  ,"align" : 0 }
+    ]
+    ,"symbols" : []
+}
